@@ -1,0 +1,17 @@
+{
+  "name": "redwa/ecommerce-mvc",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Controller\\": "controller/",
+      "Model\\": "model/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Redwann",
+      "email": "redwannmelsa@gmail.com"
+    }
+  ],
+  "require": {}
+}
